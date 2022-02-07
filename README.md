@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Hahahahah**.
+Perkenalkan nama saya **Riyagung Nuryusufa Tranggono Adi Prasetya**.
 
 Saya tertarik di Bidang Data Science, Machine Learning, Game Development, 3D Modeling.
 
